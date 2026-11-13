@@ -18,7 +18,7 @@ Ingestion, cleaning, storage, dashboard. The boring parts taught me the most: sc
 
 `Python` `SQL` `pandas` `dashboard`
 
-### [medical-xai](https://github.com/Bereke3/medical-xai)
+### [medical-xai](https://github.com/Bereke3/Explainable-Deep-Learning-for-Detection-of-Diabetic-Retinopathy-from-Retinal-Fundus-Images..git)
 Explainable ML on medical data.  
 I cared less about chasing accuracy and more about whether the explanation actually made sense.
 
