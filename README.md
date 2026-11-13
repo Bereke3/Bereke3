@@ -24,7 +24,7 @@ I cared less about chasing accuracy and more about whether the explanation actua
 
 `Python` `scikit-learn` `SHAP`
 
-### [biomarker-genai](https://github.com/Bereke3/biomarker-genai)
+### [biomarker-genai](https://github.com/Bereke3/Generative-AI-for-New-Diseases-Imaging-Biomarker-Discovery.git)
 Small experiments with generative models for biomarker-related data.  
 Mostly notebooks, failed prompts, and a few useful lessons.
 
